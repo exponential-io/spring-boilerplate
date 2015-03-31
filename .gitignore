@@ -1,9 +1,21 @@
+
+# IDE
+.idea
+*.iml
+
+# Gradle (local development files)
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+# Build
 *.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
